@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingOrders", "ShippingOrders.csproj", "{57C41298-6EC7-41C6-AA22-228224F5583E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C41298-6EC7-41C6-AA22-228224F5583E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C41298-6EC7-41C6-AA22-228224F5583E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C41298-6EC7-41C6-AA22-228224F5583E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C41298-6EC7-41C6-AA22-228224F5583E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {815D61B4-93A1-4F8F-B42C-4CAC80FAF97F}
+	EndGlobalSection
+EndGlobal
